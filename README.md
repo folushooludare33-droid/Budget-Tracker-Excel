@@ -23,3 +23,8 @@ An interactive Excel budget tracker for a middle-class household (Jan–Mar 2025
 
 ## Tools Used
 - Microsoft Excel: SUMIFS, PivotTables, Conditional Formatting, ABS()
+
+## Screenshots
+
+![Dashboard](dashboardscreenshot.png)
+![PivotTable](pivottablescreenshot.png)
